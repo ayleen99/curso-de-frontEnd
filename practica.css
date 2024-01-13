@@ -1,0 +1,10 @@
+body {
+    background-image: url(assets/gatos.jpg); background-attachment: fixed;
+}
+
+p {
+    border-style: solid; 
+   border-radius: 30px; 
+   border-color: rgb(235, 22, 181); 
+   padding: 15px;
+}
