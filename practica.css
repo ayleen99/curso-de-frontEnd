@@ -2,9 +2,34 @@ body {
     background-image: url(assets/gatos.jpg); background-attachment: fixed;
 }
 
+.tarjeta {
+    position: absolute; left: 500px;
+    border-radius: 50px;
+    border-style:dotted; color: rgb(253, 8, 122);
+}
+
+h2 {
+position: absolute;
+top: 60%;
+right: 550px;
+font-size: 50px;
+font-family: cursive;
+color: deeppink;
+text-shadow: 2px 4px 6px black;
+padding: 0px 20px 10px 20px;
+
+
+}
+
+h1 {
+    text-align: center;
+    text-decoration-line:underline;
+    color: deeppink;
+    text-shadow: 3px 6px 9px rgb(190, 55, 190);
+    text-transform: capitalize;
+
+}
+
 p {
-    border-style: solid; 
-   border-radius: 30px; 
-   border-color: rgb(235, 22, 181); 
-   padding: 15px;
+    text-align: center;
 }
