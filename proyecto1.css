@@ -1,0 +1,88 @@
+div {
+    width: 400px;
+    height: 600px;
+    background: linear-gradient(to bottom, rgb(1, 189, 252), rgb(247, 53, 53), rgb(69, 92, 69), rgb(1, 189, 252));
+    border: solid black;
+
+
+}
+
+div>h1 {
+    width: 350px;
+    position: relative;
+    top: 30px;
+    left: 25px;
+    text-align: center;
+    font-family: 'Changa', sans-serif;
+    margin: 0%;
+    background: linear-gradient(to bottom, yellow, orange);
+    border: solid 2px rgb(75, 51, 20);
+    border-top: 0;
+    border-left: 0;
+
+   
+    
+}
+
+img {  
+    position: relative;
+    left: 13px;
+    top: 30px;
+    border: solid black 1px;
+
+
+}
+
+.titulofooter {
+    font-family: 'Changa', sans-serif;
+    color: rgb(172, 171, 171);
+    text-shadow: 2px 2px 2px black;
+    font-size: 1.5em;
+    position: relative;
+    left: 14px;
+}
+
+h2 {
+  font-family: 'Changa', sans-serif;
+  color: rgb(172, 171, 171);
+  text-shadow: 2px 2px 2px black;
+  font-size: 1.5em;
+  position: relative;
+  left: 250px;
+  bottom: 63px;
+}
+
+.texto1 {
+    background: linear-gradient(to bottom, yellow, orange);
+    border: solid 2px rgb(75, 51, 20);
+    border-top: 0;
+    border-left: 0;
+    width: 350px;
+    position: relative;
+    bottom: 90px;
+    left: 25px;
+    padding: 0px 0px 30px 5px; 
+}
+
+.esfera {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 535px;
+    left: 338px;
+    float: left;
+    border: none;
+}
+
+.texto2 {
+    position: relative;
+    bottom: 125px;
+    left: 30px;
+
+}
+
+.numero {
+    position: relative;
+    bottom: 158px;
+    left: 354px;
+}
