@@ -1,9 +1,14 @@
+div {
+    font-size: 2em;
+    color: rgb(252, 77, 8);
+    text-align: center;
+}
 body {
     background-image: url(assets/gatos.jpg); background-attachment: fixed;
 }
 
 .tarjeta {
-    position: absolute; left: 500px;
+    position: relative; left: 500px;
     border-radius: 50px;
     border-style:dotted; color: rgb(253, 8, 122);
 }
@@ -32,4 +37,16 @@ h1 {
 
 p {
     text-align: center;
+}
+
+div p {
+    display: none;
+    color: palevioletred;
+    font-size: 2em;
+  
+}
+
+div:hover p {
+    display: block;
+
 }

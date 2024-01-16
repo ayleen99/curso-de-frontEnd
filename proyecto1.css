@@ -86,3 +86,15 @@ h2 {
     bottom: 158px;
     left: 354px;
 }
+
+.borde {
+    border: solid 1.5px black;
+    width: 4px;
+    height: 606px;
+    background-color: rgb(172, 171, 171);
+    position:absolute;
+    top: 0;
+    margin: 0;
+    
+
+}
