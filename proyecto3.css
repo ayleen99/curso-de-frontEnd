@@ -89,3 +89,28 @@
 .numero {
     margin-left: 18px;
 }
+
+.borde1, .borde3 {
+    border: solid 1px black;
+    /* border-top: 0; */
+    /* border-bottom: 0; */
+    width: 6px;
+    height: 600px;
+    background-color: rgb(172, 171, 171);
+    position: relative;
+    bottom: 590px;
+
+}
+
+
+.borde2, .borde4 {
+    /* border-top: 0; */
+    /* border-bottom: 0; */
+    width: 400px;
+    height: 6px;
+    background-color: rgb(172, 171, 171);
+    /* position: relative; */
+    /* bottom: 1705px; */
+    /* right: 1px; */
+    border: solid 1px black;
+}
